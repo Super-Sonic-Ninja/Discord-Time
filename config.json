@@ -1,0 +1,4 @@
+{
+    "authorization_token": "{your_token}",
+    "bio": "It is currently {your_time} for me and {current_time} for you!"
+}
